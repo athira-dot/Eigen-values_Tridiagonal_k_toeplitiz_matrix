@@ -1,0 +1,1 @@
+# TRidiagonal-k--toeplitiz-matrix
