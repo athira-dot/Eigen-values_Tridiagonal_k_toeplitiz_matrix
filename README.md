@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-div,p {
-  text-align: justify;
-  text-justify: inter-word;
-}
-</style>
-</head>
-<body>
+
 
 <h2>The spectra of tridiagonal k-Toeplitz matrices</h2>
 <p>
@@ -23,8 +13,3 @@ div,p {
 </figure>
 
 </p>
-
-
-</body>
-</html>
- 
